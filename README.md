@@ -13,9 +13,10 @@
 - 📫 How to reach me **izem.demirci@gmail.com**
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izemd&layout=compact&hide=html" alt="izemd" /></p>
-
+<br>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izemd&show_icons=true" alt="izemd" /></p>
 
