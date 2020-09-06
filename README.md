@@ -5,8 +5,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/izemd?tab=repositories](https://github.com/izemd?tab=repositories)
 
-- You can check my other project on R Shiny. [https://izemdemirci.shinyapps.io/SalesAnalysis/]
-                                             [https://izemdemirci.shinyapps.io/ExploratoryDataAnalysis/]
+- You can check my other project on R Shiny. https://izemdemirci.shinyapps.io/SalesAnalysis/
+                                             https://izemdemirci.shinyapps.io/ExploratoryDataAnalysis/
 
 - 📫 How to reach me **izem.demirci@gmail.com**
 
