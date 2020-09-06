@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Izem</h1>
 <h3 align="center">A passionate data analyst</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=izemd" alt="izemd" /> </p>
+
 - 🌱 I’m currently learning **Machine Learning with Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/izemd?tab=repositories](https://github.com/izemd?tab=repositories)
@@ -13,6 +15,7 @@
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izemd&layout=compact&hide=html" alt="izemd" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=izemd&show_icons=true" alt="izemd" /></p>
 
